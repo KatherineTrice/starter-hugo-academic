@@ -200,6 +200,7 @@ sections:
   #     columns: '2'
   #     view: card
   - block: collection
+    id: featured
     content:
       title: Publications
       text: |-
@@ -224,6 +225,7 @@ sections:
       columns: '2'
       view: compact
   - block: tag_cloud
+    id: topics
     content:
       title: Popular Topics
     design:

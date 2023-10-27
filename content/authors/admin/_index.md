@@ -22,7 +22,7 @@ organizations:
     url: https://qlab.sites.northeastern.edu/#_ga=2.8409585.571412316.1650246526-84210120.1642517980
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 
+bio: My research interests include Language Learning & Development, Autism, and Neuroimaging
 
 # Interests to show in About widget
 interests:
