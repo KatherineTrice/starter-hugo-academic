@@ -1,6 +1,6 @@
 ---
 title: BLAST-ASD
-summary: How do autistic and typically-developing children differ on their statistical learning skills across modality and domain, and what brain systems and connectivities underpin this? Here, we use online statistical learning in the MRI to tease apart aspects of statistical learning in autsict vs typically developing children, and critically examine neural underpinings of behavioral differences and connections to language development across our groups. 
+summary: How do autistic and typically-developing children differ on their statistical learning skills across modality and domain, and what brain systems and connectivities underpin this? Here, we use online statistical learning in the MRI to tease apart aspects of statistical learning in autistic vs typically developing children, and critically examine neural underpinings of behavioral differences and connections to language development across our groups. 
 
 
 tags:

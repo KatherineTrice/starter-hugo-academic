@@ -1,6 +1,6 @@
 ---
 title: MIND-ASD
-summary: Can autistic children learn and retain words that typically rely on theory of mind skills to correctly map? While some autistic children can correctly map and retain such words, showing more stable memory for pragmatically inferred words over directly mapped words, others cannot. However, unlike in typically developing children, this is not modulated by theory of mind skills, indicating that other cognitive mechanisms may underpin pragmatic inference resolution. 
+summary: Can autistic children learn and retain words that typically rely on theory of mind skills to correctly map said words? While some autistic children can correctly map and retain such words, showing more stable memory for pragmatically inferred words over directly mapped words, others cannot. However, unlike in typically developing children, this is not modulated by theory of mind skills, indicating that other cognitive mechanisms may underpin pragmatic inference resolution. 
 
 
 tags:

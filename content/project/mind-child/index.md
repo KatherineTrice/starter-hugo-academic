@@ -1,6 +1,6 @@
 ---
 title: MIND-Child
-summary: How do the need to make pragmatic inferences to map words impact novel word meaning memory? We that children can successfully acquire and retain meanings via pragmatic inference; moreover, effects of active pragmatic computation on meaning retention grow with development, resulting in better retention of pragmatically inferred over directly mapped words. Such a developmental difference in meaning consolidation is possibly mediated by children’s developing ToM skills. 
+summary: How does the need to make pragmatic inferences to map words impact novel word meaning memory? We have found that children can successfully acquire and retain meanings via pragmatic inference; moreover, effects of active pragmatic computation on meaning retention grow with development, resulting in better retention of pragmatically inferred over directly mapped words. Such a developmental difference in meaning consolidation is possibly mediated by children’s developing theory of mind skills. 
 
 
 tags:
