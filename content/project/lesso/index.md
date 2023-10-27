@@ -6,6 +6,11 @@ summary: What cognitive mechanisms may underpin implicit sign language learning 
 tags:
   - LESSO
   - in-progress
+  - adults
+  - Deaf individuals
+  - sign language
+  - language
+  - individual differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

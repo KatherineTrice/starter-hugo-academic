@@ -31,7 +31,14 @@ abstract: Both children and adults can use sophisticated pragmatic inferences to
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac # convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+  - MIND
+  - complete
+  - adults
+  - theory of mind
+  - pragmatics
+  - language
+  - word learning 
+  - individual differences
 featured: false
 
 links:

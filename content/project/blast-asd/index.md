@@ -6,6 +6,12 @@ summary: How do autistic and typically-developing children differ on their stati
 tags:
   - BLAST
   - analyzing
+  - MRI
+  - autistic
+  - children
+  - statistical learning
+  - language
+  - individual differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

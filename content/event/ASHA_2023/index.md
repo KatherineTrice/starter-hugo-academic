@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Katherine Trice, Angelina DiNardo, Zhenghan Qi]
-tags: [Autism, Children, Language, Pragmatics, Word Learning, Theoru of Mind, Individual Differences, Eye-Tracking]
+tags: [Autism, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences, Eye-Tracking]
 
 # Is this a featured talk? (true/false)
 featured: false

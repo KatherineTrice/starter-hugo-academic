@@ -4,6 +4,12 @@ summary: How does the complexity of word mapping impact adult's word meaning mem
 tags:
   - MIND
   - complete
+  - adults
+  - theory of mind
+  - pragmatics
+  - language
+  - word learning 
+  - individual differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

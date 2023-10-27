@@ -6,6 +6,12 @@ summary: How does engagement of theory of mind impact word learning and retentio
 tags:
   - MIND
   - in-progress
+  - adults
+  - theory of mind
+  - pragmatics
+  - language
+  - word learning 
+  - individual differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
