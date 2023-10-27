@@ -5,13 +5,13 @@ summary: How do different modalities and domains of statistical learning skills 
 
 tags:
   - BLAST
-  - analyzing
+  - Analyzing
   - MRI
-  - children
-  - adults
-  - statistical learning
-  - language
-  - individual differences
+  - Children
+  - Adults
+  - Statistical Learning
+  - Language
+  - Individual Differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -3,13 +3,13 @@ title: MIND-Adult
 summary: How does the complexity of word mapping impact adult's word meaning memory? We found that pragmatic inference nessesitated during word mapping facilitated the retention of novel words compared to direct mapping. Moreover, socio-cognitive skills modulated the degree of retention stability for pragmatically inferred words. In conclusion, pragmatic processes supported by social cognition affect both encoding and memory consolidation of novel word meanings.
 tags:
   - MIND
-  - complete
-  - adults
-  - theory of mind
-  - pragmatics
-  - language
-  - word learning 
-  - individual differences
+  - Complete
+  - Adults
+  - Theory of Mind
+  - Pragmatics
+  - Language
+  - Word Learning 
+  - Individual Differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

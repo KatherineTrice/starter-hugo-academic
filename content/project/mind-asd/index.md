@@ -5,15 +5,15 @@ summary: Can autistic children learn and retain words that typically rely on the
 
 tags:
   - MIND
-  - analyzing
+  - Analyzing
   - Eye-Tracking
-  - children
-  - autistic
-  - theory of mind
-  - pragmatics
-  - language
-  - word learning 
-  - individual differences
+  - Children
+  - Autistic
+  - Theory of Mind
+  - Pragmatics
+  - Language
+  - Word Learning 
+  - Individual Differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

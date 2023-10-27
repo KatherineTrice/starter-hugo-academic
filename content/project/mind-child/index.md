@@ -5,14 +5,14 @@ summary: How do the need to make pragmatic inferences to map words impact novel 
 
 tags:
   - MIND
-  - complete
+  - Complete
   - Eye-Tracking
-  - children
-  - theory of mind
-  - pragmatics
-  - language
-  - word learning 
-  - individual differences
+  - Children
+  - Theory of Mind
+  - Pragmatics
+  - Language
+  - Word Learning 
+  - Individual Differences
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -32,13 +32,13 @@ abstract: Both children and adults can use sophisticated pragmatic inferences to
 
 tags:
   - MIND
-  - complete
-  - adults
-  - theory of mind
-  - pragmatics
-  - language
-  - word learning 
-  - individual differences
+  - Complete
+  - Adults
+  - Theory of Mind
+  - Pragmatics
+  - Language
+  - Word Learning 
+  - Individual Differences
 featured: false
 
 links:
