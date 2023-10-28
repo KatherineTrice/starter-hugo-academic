@@ -36,7 +36,7 @@ education:
     - course: PhD in Psychology
       institution: Northeastern University
       year: Anticipated May 2026
-    - course: PhD in Linguistics
+    - course: PhD-Candidate in Linguistics
       institution: University of Delaware	
       year: Transferred with Lab to Northeastern
     - course: Bachelor of Arts degree in Linguistics, Minor in ASL
@@ -106,5 +106,5 @@ social:
 highlight_name: true
 ---
 
-Katherine Trice is a PhD student in Northeastern University's Psychology Department. Her research interests focus on the cognitive and neural mechanisms underpinning language learning, particularly in autistic individuals. She leads the MIND projects, which probe the mechanisms modulating vocabulary acquisition in neurotypical and autistic individuals, and the LESSO project, which teases apart the cognitive factors supporting sign language acquisition. Katherine is currently extensive neuroimaging experience in both MRI and EEG settings, and has worked with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
+Katherine Trice is a PhD student in Northeastern University's Psychology Department. Her research interests focus on the cognitive and neural mechanisms underpinning language learning, particularly in autistic individuals. She leads the MIND projects, which probe the mechanisms modulating vocabulary acquisition in neurotypical and autistic individuals, and the LESSO project, which teases apart the cognitive factors supporting sign language acquisition. Katherine has extensive neuroimaging experience in both MRI and EEG settings, and works with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
 {style="text-align: justify;"}
