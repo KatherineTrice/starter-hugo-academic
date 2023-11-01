@@ -1,14 +1,17 @@
 ---
-title: learning Second Sign Language Operation (LESSO)
-summary: What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate one’s ability to extract and map novel signs from context. Major contributions: Supervise assessment programming, piloting, and refining, created full project pipeline; lead recruitment and administration, particularly of more challenging populations such as Deaf individuals and CODAs 
+title: MIND-Child
+summary: How does the need to make pragmatic inferences to map words impact novel word meaning memory? We have found that children can successfully acquire and retain meanings via pragmatic inference; moreover, effects of active pragmatic computation on meaning retention grow with development, resulting in better retention of pragmatically inferred over directly mapped words. Such a developmental difference in meaning consolidation is possibly mediated by children’s developing theory of mind skills. 
 
 
 tags:
-  - LESSO
-  - Adults
-  - Deaf
-  - Sign Language
+  - MIND
+  - Complete
+  - Eye-Tracking
+  - Children
+  - Theory of Mind
+  - Pragmatics
   - Language
+  - Word Learning 
   - Individual Differences
 date: '2016-04-27T00:00:00Z'
 
