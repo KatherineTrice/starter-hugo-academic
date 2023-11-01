@@ -1,6 +1,6 @@
 ---
 title: MIND-Test
-summary: What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults?
+summary: What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate one's ability to extract and map novel signs from context.
 
 
 tags:
