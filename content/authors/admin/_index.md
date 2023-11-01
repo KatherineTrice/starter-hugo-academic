@@ -34,17 +34,17 @@ interests:
   - Cognitive Neuroscience
 # 
 # # Education to show in About widget
-# education:
-#   courses:
-#     - course: PhD in Psychology
-#       institution: Northeastern University
-#       year: Anticipated May 2026
-#     - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
-#       institution: University of Rochester
-#       year: 2020
-#     - course: TEFL/TESOL Basic Certification 
-#       institution: BridgeTEFL
-#       year: 2019
+education:
+  courses:
+    - course: PhD in Psychology
+      institution: Northeastern University
+      year: Anticipated May 2026
+    - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
+      institution: University of Rochester
+      year: 2020
+    - course: TEFL/TESOL Basic Certification
+      institution: BridgeTEFL
+      year: 2019
 # 
 # # Skills
 # # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
