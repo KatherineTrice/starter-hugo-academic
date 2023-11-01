@@ -4,7 +4,7 @@ title: "Multimodal Statistical Learning in Children with Autism Spectrum Disorde
 event: MOLA 2023
 event_url: https://molautism.org/
 # 
-# location: Durham, NC
+location: Durham, NC
 # address:
 #   street: Duke University Penn Pavilion
 #   city: Durham
