@@ -1,6 +1,6 @@
 ---
-title: Learning Second Sign Language Operation
-summary: What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate the ability to extract and map novel signs from context. Major contributions: Supervise assessment programming, piloting, and refining, created full project pipeline; lead recruitment and administration, particularly of more challenging populations such as Deaf individuals and CODAs 
+title: Learning-Second-Sign-Language-Operation
+summary: What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate one's ability to extract and map novel signs from context. Major contributions: Supervise assessment programming, piloting, and refining, created full project pipeline; lead recruitment and administration, particularly of more challenging populations such as Deaf individuals and CODAs 
 
 
 tags:
