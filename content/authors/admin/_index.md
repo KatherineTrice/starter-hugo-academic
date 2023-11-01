@@ -28,10 +28,10 @@ organizations:
 # 
 # # Interests to show in About widget
 # interests:
-#   - Human Development
-#   - Language Learning
-#   - Autism
-#   - Cognitive Neuroscience
+  - Human Development
+  - Language Learning
+  - Autism
+  - Cognitive Neuroscience
 # 
 # # Education to show in About widget
 # education:
