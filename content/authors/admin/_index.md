@@ -20,8 +20,8 @@ role: PhD Student, Psychology Department
 organizations:
   - name: Language Acquisition and Brain Lab (QLAB)
     url: https://qlab.sites.northeastern.edu/#_ga=2.8409585.571412316.1650246526-84210120.1642517980
- # - name: Northeastern University Psychology Department 
- #   url: https://cos.northeastern.edu/psychology/
+  - name: Northeastern University Psychology Department 
+    url: https://cos.northeastern.edu/psychology/
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
