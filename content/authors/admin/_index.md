@@ -27,7 +27,7 @@ organizations:
 # bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
 # 
 # # Interests to show in About widget
-# interests:
+interests:
   - Human Development
   - Language Learning
   - Autism
