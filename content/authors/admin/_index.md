@@ -67,17 +67,17 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-  # - name: Project Management
-  #       description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
-  #       icon: 👥
-#       - name: Science Communication
-#         description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
-#         icon: 🗃
-#       - name: Teaching
-#         description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
-#         icon: 🪧
+    - name: Project Management
+      description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
+      icon: 👥
+    - name: Science Communication
+      description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
+      icon: 🗃
+    - name: Teaching
+      description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
+      icon: 🪧
     - name: Mentorship
-      description: 'Supervise award-winning undergrads on independent projects.'
+      description: 'Supervise award-winning undergraduates on independent projects.'
       icon: 🪧
 
 # Social/Academic Networking
