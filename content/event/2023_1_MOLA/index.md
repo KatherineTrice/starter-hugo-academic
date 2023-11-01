@@ -13,7 +13,7 @@ address:
   country: United States
 # 
 summary: A talk on autistic children’s neural plasticity during statistical learning.
-# abstract: 'Statistical learning refers to the implicit learning process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. The lack of social requirements to learn such patterns make this a potentially significant mechanism in autistic children's language learning. Do autistic children pick up on such regularities similar to their aged-matched peers? Find out in our talk!'
+abstract: 'Statistical learning refers to the implicit learning process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. The lack of social requirements to learn such patterns make this a potentially significant mechanism in autistic children's language learning. Do autistic children pick up on such regularities similar to their aged-matched peers? Find out in our talk!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
