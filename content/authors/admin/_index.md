@@ -52,7 +52,7 @@ skills:
   - name: Technical
     items:
     - name: MRI/fMRI
-      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. \n Can analyze structural connectivity, fMRI, and MVPA.'
+      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
       icon: mri
     - name: EEG
       description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
@@ -63,13 +63,13 @@ skills:
     - name: Reproducibility
       description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
       icon: 🪧
-#   - name: General
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#   - name: Project Management
-#         description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
-#         icon: 👥
+  - name: General
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+  - name: Project Management
+        description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
+        icon: 👥
 #       - name: Science Communication
 #         description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
 #         icon: 🗃
