@@ -20,65 +20,65 @@ role: PhD Student, Psychology Department
 organizations:
   - name: Language Acquisition and Brain Lab (QLAB)
     url: https://qlab.sites.northeastern.edu/#_ga=2.8409585.571412316.1650246526-84210120.1642517980
-  - name: Northeastern University Psychology Department 
-    url: https://cos.northeastern.edu/psychology/
+ # - name: Northeastern University Psychology Department 
+ #   url: https://cos.northeastern.edu/psychology/
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
-
-# Interests to show in About widget
-interests:
-  - Human Development
-  - Language Learning
-  - Autism
-  - Cognitive Neuroscience
-
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Psychology
-      institution: Northeastern University
-      year: Anticipated May 2026
-    - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
-      institution: University of Rochester
-      year: 2020
-    - course: TEFL/TESOL Basic Certification 
-      institution: BridgeTEFL
-      year: 2019
-
-# Skills
-# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
-skills:
-  - name: Technical
-    items:
-    - name: MRI/fMRI
-      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
-      icon: mri
-    - name: EEG
-      description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
-      icon: eeg
-    - name: Programming Skills
-      description: 'Proficient in Python Programming and R, familiar with Bash, Matlab, and Web Design.'
-    - name: Reproducibility
-      description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
-        icon: 🪧
-      icon: 💻
-  - name: General
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-  - name: Project Management
-        description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
-        icon: 👥
-      - name: Science Communication
-        description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
-        icon: 🗃
-      - name: Teaching
-        description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
-        icon: 🪧
-      - name: Mentorship
-        description: 'Supervise award-winning undergrads on independent projects.'
-        icon: 🪧
+# # Short bio (displayed in user profile at end of posts)
+# bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
+# 
+# # Interests to show in About widget
+# interests:
+#   - Human Development
+#   - Language Learning
+#   - Autism
+#   - Cognitive Neuroscience
+# 
+# # Education to show in About widget
+# education:
+#   courses:
+#     - course: PhD in Psychology
+#       institution: Northeastern University
+#       year: Anticipated May 2026
+#     - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
+#       institution: University of Rochester
+#       year: 2020
+#     - course: TEFL/TESOL Basic Certification 
+#       institution: BridgeTEFL
+#       year: 2019
+# 
+# # Skills
+# # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
+# skills:
+#   - name: Technical
+#     items:
+#     - name: MRI/fMRI
+#       description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
+#       icon: mri
+#     - name: EEG
+#       description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
+#       icon: eeg
+#     - name: Programming Skills
+#       description: 'Proficient in Python Programming and R, familiar with Bash, Matlab, and Web Design.'
+#     - name: Reproducibility
+#       description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
+#         icon: 🪧
+#       icon: 💻
+#   - name: General
+#     color: '#eeac02'
+#     color_border: '#f0bf23'
+#     items:
+#   - name: Project Management
+#         description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
+#         icon: 👥
+#       - name: Science Communication
+#         description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
+#         icon: 🗃
+#       - name: Teaching
+#         description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
+#         icon: 🪧
+#       - name: Mentorship
+#         description: 'Supervise award-winning undergrads on independent projects.'
+#         icon: 🪧
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
