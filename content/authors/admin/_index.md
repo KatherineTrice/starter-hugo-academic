@@ -76,9 +76,9 @@ skills:
 #       - name: Teaching
 #         description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
 #         icon: 🪧
-#       - name: Mentorship
-#         description: 'Supervise award-winning undergrads on independent projects.'
-#         icon: 🪧
+    - name: Mentorship
+      description: 'Supervise award-winning undergrads on independent projects.'
+      icon: 🪧
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
