@@ -1,6 +1,5 @@
 ---
-title: "Greater Plasticity in the Language Network in Children
-than Adults During Statistical Learning"
+title: "Greater Plasticity in the Language Network in Children than Adults During Statistical Learning"
 
 event: SNL 2022
 event_url: https://www.neurolang.org/2022/
@@ -14,7 +13,7 @@ address:
   country: United States
 
 summary: A poster on typically developing children’s neural plasticity during statistical learning.
-abstract: 'Statistical learning refers to the  implicit learning
+abstract: 'Statistical learning refers to the implicit learning
 process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. Furthermore, behaviorally, children learn statistical regularities much faster than adults. What are the developmental changes in the brain that underpin learning new patterns in the linguistic
 domain? Find out in our poster!'
 

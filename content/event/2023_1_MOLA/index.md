@@ -6,7 +6,7 @@ event_url: https://molautism.org/
 
 location: Durham, NC
 address:
-  street: Duke University’s Penn Pavilion
+  street: Duke University Penn Pavilion
   city: Durham
   region: NC
   postcode: '27710'
