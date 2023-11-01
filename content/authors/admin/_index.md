@@ -14,21 +14,24 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student; Language Aquisition and Brain (QLAB) Research Assistant
+role: PhD Student, Psychology Department
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Northeastern University; QLAB
+  - name: Language Acquisition and Brain Lab (QLAB)
     url: https://qlab.sites.northeastern.edu/#_ga=2.8409585.571412316.1650246526-84210120.1642517980
+  - name: Northeastern University Psychology Department 
+    url: https://cos.northeastern.edu/psychology/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Language Learning & Development, Autism, and Neuroimaging
+bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
 
 # Interests to show in About widget
 interests:
-  - Language Learning & Development
+  - Human Development
+  - Language Learning
   - Autism
-  - Neuroimaging
+  - Cognitive Neuroscience
 
 # Education to show in About widget
 education:
@@ -36,10 +39,7 @@ education:
     - course: PhD in Psychology
       institution: Northeastern University
       year: Anticipated May 2026
-    - course: PhD-Candidate in Linguistics
-      institution: University of Delaware	
-      year: Transferred with Lab to Northeastern
-    - course: Bachelor of Arts degree in Linguistics, Minor in ASL
+    - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
       institution: University of Rochester
       year: 2020
     - course: TEFL/TESOL Basic Certification 
@@ -51,27 +51,33 @@ education:
 skills:
   - name: Technical
     items:
-    - name: MRI
-      description: 'Able to design, run, and process/analyze task-related contrast activation, multi-voxel pattern analyses, and diffusion tensor imaging'
+    - name: MRI/fMRI
+      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
       icon: mri
     - name: EEG
-      description: 'Able to design, run, and process/analyze event-related potential, frequency power and oscillations, micro-states'
+      description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
       icon: eeg
-    - name: Coding
-      description: 'Proficient in Python Programming and R, basic knowledge of Bash, Matlab, and Web Design'
+    - name: Programming Skills
+      description: 'Proficient in Python Programming and R, familiar with Bash, Matlab, and Web Design.'
+    - name: Reproducibility
+      description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
+        icon: 🪧
       icon: 💻
   - name: General
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Administration
-        description: 'Proficient in experimental administration to a variety of populations, including children, autistic, and Deaf individuals'
+  - name: Project Management
+        description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
         icon: 👥
-      - name: Teaching
-        description: 'Experience teaching both highly technical and general material to small groups'
+      - name: Science Communication
+        description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
         icon: 🗃
-      - name: Reproducibility
-        description: 'Knowledgable on techniques and resources to ensure that data, especially neuroimaging data, is reproducible'
+      - name: Teaching
+        description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
+        icon: 🪧
+      - name: Mentorship
+        description: 'Supervise award-winning undergrads on independent projects.'
         icon: 🪧
 
 # Social/Academic Networking
@@ -106,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Katherine Trice is a PhD student in Northeastern University's Psychology Department. Her research interests focus on the cognitive and neural mechanisms underpinning language learning, particularly in autistic individuals. She leads the MIND projects, which probe the mechanisms modulating vocabulary acquisition in neurotypical and autistic individuals, and the LESSO project, which teases apart the cognitive factors supporting sign language acquisition. Katherine has extensive neuroimaging experience in both MRI and EEG settings, and works with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
+Katherine Trice is a PhD student in Northeastern University's Psychology Department. Her research interests focus on the cognitive and neural mechanisms underpinning language learning, in both typical and atypical development. Katherine has extensive neuroimaging experience in both MRI and EEG settings, and has implemented online behavioral metrics such as eye-tracking. She works with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
 {style="text-align: justify;"}
