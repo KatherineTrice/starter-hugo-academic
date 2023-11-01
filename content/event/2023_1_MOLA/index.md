@@ -1,31 +1,31 @@
 ---
-title: "No Advantage of Pragmatic Inference for Vocabulary Retention in Children with Autism."
+title: "Multimodal Statistical Learning in Children with Autism Spectrum Disorder"
 
 event: MOLA 2023
 event_url: https://molautism.org/
 
 location: Durham, NC
 address:
-  street: Duke University’s Penn Pavilion
+  street: Duke University Penn Pavilion
   city: Durham
   region: NC
   postcode: '27710'
   country: United States
 
-summary: A poster on autistic children’s encoding and retrieval of pragmatically inferred words.
-abstract: 'Typically developing children (4-9) and adults are able to mapped words via pragmatic inferences, and older children (6-9) and adults show a memory advantage for pragmatically inferred words. This advanage is linked to theory of mind abilities. Do autistic children, traditionally viewed as having weaker theory of mind skills, show the same? Find out in our poster!'
+summary: A talk on autistic children’s neural plasticity during statistical learning.
+abstract: 'Statistical learning refers to the implicit learning process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. The lack of social requirements to learn such patterns make this a potentially significant mechanism in autistic children's language learning. Do autistic children pick up on such regularities similar to their aged-matched peers? Find out in our talk!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-10T14:30:00Z'
+date: '2023-03-11T09:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Katherine Trice, Anna Papafragou, Zhenghan Qi]
-tags: [Autistic, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences]
+authors: [Anqi Hu, Katherine Trice, Violet Kozloff, Amanda Owen Van Horn, Diane Chugani, Zhenghan Qi]
+tags: [Children, Autistic, Language, Statistical Learning, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -40,7 +40,7 @@ image:
    # name: Follow
     # url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://qlab.sites.northeastern.edu/files/2023/03/2023_mola_mind_asd_poster.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -57,7 +57,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - mind
+  - blast
 ---
 
 # {{% callout note %}}
