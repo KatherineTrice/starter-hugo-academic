@@ -63,7 +63,7 @@ skills:
     - name: Reproducibility
       description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
       icon: 🪧
- - name: General
+  - name: General
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
