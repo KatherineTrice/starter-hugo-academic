@@ -30,7 +30,7 @@ tags: [Children, Autistic, Language, Statistical Learning, Individual Difference
 # Is this a featured talk? (true/false)
 featured: false
 
-# image:
+image:
   caption: 'Image credit: MOLA'
   focal_point: Right
 
@@ -56,8 +56,8 @@ featured: false
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-#projects:
-# - blast
+projects:
+ - blast
 ---
 
 # {{% callout note %}}
