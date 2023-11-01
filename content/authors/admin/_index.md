@@ -63,13 +63,13 @@ skills:
     - name: Reproducibility
       description: 'Familiar with use and implementation of OSF, GitHub, BIDS, Docker, Pre-Registration, and other similar systems.'
       icon: 🪧
-  - name: General
+ - name: General
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-  - name: Project Management
-        description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
-        icon: 👥
+  # - name: Project Management
+  #       description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
+  #       icon: 👥
 #       - name: Science Communication
 #         description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
 #         icon: 🗃
