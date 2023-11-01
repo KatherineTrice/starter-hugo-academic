@@ -52,11 +52,13 @@ skills:
   - name: Technical
     items:
     - name: MRI/fMRI
-      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
+      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. 
+      
+      Can analyze structural connectivity, fMRI, and MVPA.'
       icon: mri
-    # - name: EEG
-    #   description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
-    #   icon: eeg
+    - name: EEG
+      description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
+      icon: eeg
     # - name: Programming Skills
     #   description: 'Proficient in Python Programming and R, familiar with Bash, Matlab, and Web Design.'
     #   icon: 💻
