@@ -1,8 +1,8 @@
 ---
 title: "Multimodal Statistical Learning in Children with Autism Spectrum Disorder"
 
-# event: MOLA 2023
-# event_url: https://molautism.org/
+event: MOLA 2023
+event_url: https://molautism.org/
 # 
 # location: Durham, NC
 # address:
