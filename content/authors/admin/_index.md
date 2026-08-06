@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Post-Doctoral Student, Brain and Cognitive Sciences
+role: Post-Doctoral Associate, Brain and Cognitive Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -112,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Katherine Trice is a PhD student in Northeastern University's Psychology Department. Her research interests focus on the cognitive and neural mechanisms underpinning language learning, in both typical and atypical development. Katherine has extensive neuroimaging experience in both MRI and EEG settings, and has implemented online behavioral metrics such as eye-tracking. She works with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
+Katherine Trice is a Post-Doctoral Associate in MIT's McGovern Institute. Her research interests focus on the cognitive and neural mechanisms underpinning language processing and learning, in both typical and atypical development. Katherine has extensive neuroimaging experience in both MRI and EEG settings, and has implemented online behavioral metrics such as eye-tracking. She works with a wide variety of populations, including autistic and neurotypical children and adults as well as Deaf adults.
 {style="text-align: justify;"}
