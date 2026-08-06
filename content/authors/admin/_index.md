@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Katherine Marie Trice, M.A.
+title: Katherine Marie Trice, Ph.D.
 
 # Full name (for SEO)
 first_name: Katherine Marie
@@ -14,14 +14,14 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student, Psychology Department
+role: Post-Doctoral Student, Brain and Cognitive Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Language Acquisition and Brain Lab (QLAB)
-    url: https://qlab.sites.northeastern.edu/#_ga=2.8409585.571412316.1650246526-84210120.1642517980
-  - name: Northeastern University Psychology Department 
-    url: https://cos.northeastern.edu/psychology/
+  - name: Gabrieli Laboratory
+    url: https://gablab.mit.edu/
+  - name: McGovern Institute for Brain Research, MIT
+    url: https://mcgovern.mit.edu/
 
 # # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include Human Development, Language Learning, Autism, and Cognitive Neuroscience
@@ -29,8 +29,8 @@ organizations:
 # # Interests to show in About widget
 interests:
   - Human Development
-  - Language Learning
-  - Autism
+  - Language Processing and Learning
+  - Neurodevelopmental Disorders
   - Cognitive Neuroscience
 # 
 # # Education to show in About widget
@@ -38,7 +38,7 @@ education:
   courses:
     - course: PhD in Psychology
       institution: Northeastern University
-      year: Anticipated May 2026
+      year: 2026
     - course: Bachelor of Arts degree in Linguistics, Minor in American Sign Language
       institution: University of Rochester
       year: 2020
@@ -52,7 +52,7 @@ skills:
   - name: Technical
     items:
     - name: MRI/fMRI
-      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, fMRI, and MVPA.'
+      description: 'Familiar with Fitlins, QSIPrep, pyAFQ, CONN, SPM12. Can analyze structural connectivity, functional connectivity, fMRI, and MVPA.'
       icon: mri
     - name: EEG
       description: 'Familiar with EEGLAB, HAPPE, ERPLAB. Can analyze event-related potential, frequency power and oscillations, and micro-states.'
@@ -71,7 +71,7 @@ skills:
       description: 'Lead teams of motivated research assistants (5-7 per team) and implement projects from design to analysis.'
       icon: 👥
     - name: Science Communication
-      description: 'Have presented talks at peer reviewed conferences, written grant proposals, and prepared manuscripts for publications.'
+      description: 'Have presented talks at peer reviewed conferences and community outreach events, written grant proposals, published manuscripts, and run community participatory research boards.'
       icon: 🗃
     - name: Teaching
       description: 'Experience teaching small classes, lab classes, lectures, and workshops.'
@@ -86,7 +86,7 @@ skills:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: 📧 
-    link: 'mailto:trice.k@northeastern.edu'
+    link: 'mailto:tricekm@mit.edu'
   # - icon: 🏞️
    # link: https://twitter.com/GeorgeCushen
    # label: Follow me on Blue Sky!
