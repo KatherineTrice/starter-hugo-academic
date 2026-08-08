@@ -13,7 +13,7 @@ address:
  # country: United States
 
 summary: A poster on the engagement of the mentalizing system during novel word learning between different sentenial contexts in adulthood.
-abstract: 'Mentalizing abilities correlate with better retention for words mapped via their use in neurotypical individuals. However, whether this stems from the consideration of others' perspectives or the increased complexity of initial ambiguity resolution is unknown. Is the mentalizing network engaged during word learning across neurotypes and does it link to memory outcomes? Find out in our poster!'
+abstract: 'Mentalizing abilities correlate with better retention for words mapped via their use in neurotypical individuals. However, whether this stems from the consideration of the perspectives of others or the increased complexity of initial ambiguity resolution is unknown. Is the mentalizing network engaged during word learning across neurotypes and does it link to memory outcomes? Find out in our poster!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
