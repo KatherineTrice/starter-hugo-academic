@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Katherine Trice, Angelina DiNardo, Kelly Chan, Veronica Foster, Ellie Bilsel, Nikoletta Kennedy, Lauren Voso, Sarah Gracia, Monique Montoute, & Zhenghan Qi]
+authors: [Katherine Trice, Angelina DiNardo, Kelly Chan, Veronica Foster, Ellie Bilsel, Nikoletta Kennedy, Lauren Voso, Sarah Gracia, Monique Montoute, Zhenghan Qi]
 tags: [Autistic, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences]
 
 # Is this a featured talk? (true/false)
