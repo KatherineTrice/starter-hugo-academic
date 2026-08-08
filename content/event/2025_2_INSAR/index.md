@@ -13,7 +13,7 @@ address:
  # country: United States
 
 summary: A poster on the impact of linguistic choices in clinical reports on clinician's perspectives of prospective autistic clients.
-abstract: 'Clinicians often receive reports of prospective clients from prior providers before meeting them. However, these reports may vary in the linguistic choices shapes by the model of disability the prior provider employs. Can the linguistic choices made, even when describing the same subject, shape future providers' perceptions of a cient even before they meet? Find out in our poster!'
+abstract: 'Clinicians often receive reports of prospective clients from prior providers before meeting them. However, these reports may vary in the linguistic choices shapes by the model of disability the prior provider employs. Can the linguistic choices made, even when describing the same subject, shape future perceptions of a client even before they meet? Find out in our poster!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
