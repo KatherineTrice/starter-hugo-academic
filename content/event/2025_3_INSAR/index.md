@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Anna Schwartz, So Yoon Kim, Sahar Taresh, Gary Lam, Ava Gurba, Sabine Saade, Rita Obeid, Emilie Cappe, Elif Bastan, Bella Kofner, TC Waisman, Zachary Williams, Kristen Gillespie-Lynch, Katherine Trice, Meghan Graham, Anastasia Nanou, Venetia-Sofia Velonaki]
-tags: [Adults, Language, Autism, Psychometrics, Instruments and Measures, Individual Differences]
+tags: [Adults, Language, Autistic, Psychometrics, Instruments and Measures, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
