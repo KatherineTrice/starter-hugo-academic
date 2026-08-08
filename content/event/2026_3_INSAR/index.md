@@ -13,7 +13,7 @@ address:
   #country: United States
 
 summary: A poster on the continued development of a measure of knowledge of autism.
-abstract: 'While a number of measures of one's autism of knowledge about autism exist, few actively include autistic individuals and cross-cultural perspectives in their development. How does this measure get even better? Find out in our poster!'
+abstract: 'While a number of measures of knowledge about autism exist, few actively include autistic individuals and cross-cultural perspectives in their development. How does this measure get even better? Find out in our poster!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
