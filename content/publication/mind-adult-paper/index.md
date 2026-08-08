@@ -1,5 +1,5 @@
 ---
-title: "Pragmatics and social cognition in learning and remembering words"
+title: "Pragmatics and Social Cognition in Learning and Remembering Words"
 authors:
 - Katherine Marie Trice
 - Dionysia Saratsli
