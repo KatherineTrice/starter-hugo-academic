@@ -1,37 +1,39 @@
 ---
-title: "No Advantage of Pragmatic Inference for Vocabulary Retention in Children with Autism."
+title: "The Neurobiology of Auditory Statistical Learning is More Domain-Specific Early in Life"
 
-event: MOLA 2023
-event_url: https://molautism.org/
+event: CNS 2023
+event_url: https://www.cogneurosociety.org/annual-meeting/
 
-location: Durham, NC
+location: San Francisco,CA
 address:
-  street: Duke University’s Penn Pavilion
-  city: Durham
-  region: NC
-  postcode: '27710'
+  # street: George Sherman Union, 775 Commonwealth Avenue
+  city: San Francisco
+  region: CA
+  # postcode: '02215'
   country: United States
 
-summary: A poster on autistic children’s encoding and retrieval of pragmatically inferred words.
-abstract: 'Typically developing children (4-9) and adults are able to mapped words via pragmatic inferences, and older children (6-9) and adults show a memory advantage for pragmatically inferred words. This advantage is linked to theory of mind abilities. Do autistic children, traditionally viewed as having weaker theory of mind skills, show the same? Find out in our poster!'
+summary: A symposium talk on typically developing children’s neural plasticity during statistical learning.
+abstract: 'Statistical learning refers to the  implicit learning
+process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. Furthermore, behaviorally, children learn statistical regularities much faster than adults. What are the developmental changes in the brain that underpin learning new patterns in the linguistic
+domain? Find out in our symposium!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-10T14:30:00Z'
+date: '2023-03-25T00:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Katherine Trice, Anna Papafragou, Zhenghan Qi]
-tags: [Autistic, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences]
+authors: [Zhenghan Qi, Anqi Hu, Yi-Lun Weng, Katherine Trice]
+tags: [Children, Adults, Language, Statistical Learning, MRI, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: MOLA'
+  caption: 'Image credit: CNS'
   focal_point: Right
 
 #links:
@@ -40,7 +42,7 @@ image:
    # name: Follow
     # url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://qlab.sites.northeastern.edu/files/2023/03/2023_mola_mind_asd_poster.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -57,7 +59,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - mind
+  - blast
 ---
 
 # {{% callout note %}}

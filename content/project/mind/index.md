@@ -1,6 +1,6 @@
 ---
 title: Mentalization in Development (MIND)
-summary: "How does the need to make pragmatic inferences to map words impact novel word meaning memory? In this collection of projects, we examine how the cognitive and neural basis of theory of mind modulate word learning outcomes in neurotypical and autistic adults and children, and how and why this may differ between individuals and groups. Major contributions: Empirically demonstrate stronger retention of pragmatically inferred over directly mapped words in neurotypical adults, older typically developing children, and a sub-group of autistic children, and a lack of it in younger typically developing children and a subgroup of autistic children; explore a significant modulating effect of theory of mind skills via both behavioral correlations and priming; conceptualize, design, program, and pilot neuro-imaging extensions of this project in neurotypical and autistic adults using fMRI (BOLD activation, MVPA, and functional connectivity) and EEG (pseudo-hyperscanning)"
+summary: "How does the need to make pragmatic inferences to map words impact novel word meaning memory? In this collection of projects, we examine how the cognitive and neural basis of social cognition modulate word learning outcomes in neurotypical and autistic adults and children, how and why this may differ between individuals and groups, and the role that a learner's perceptions may play. Major contributions: Empirically demonstrate stronger retention of pragmatically inferred over directly mapped words in neurotypical and autistic adults, older typically developing children, and a sub-group of autistic children, and a lack of it in younger typically developing children and a subgroup of autistic children; explore a significant modulating effect of social-cognitive ability, engagement, and neural connections to memory via behavioral correlations, priming, and neural activation; conceptualize, design, program, run, and analyze neuroimaging data in neurotypical and autistic adults using fMRI (BOLD activation, MVPA, and functional connectivity) and EEG (pseudo-hyperscanning) and eye-tracking in neurotypical and autistic children; analyze and publish results; write fellowship proposal and assist in drafting additional grants; lead commmunity advisory board panel"
 
 tags:
   - MIND
@@ -11,6 +11,8 @@ tags:
   - Pragmatics
   - Language
   - Word Learning 
+  - MRI
+  - EEG
   - Individual Differences
 date: '2016-04-27T00:00:00Z'
 

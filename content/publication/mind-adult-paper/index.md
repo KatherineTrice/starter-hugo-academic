@@ -1,8 +1,8 @@
 ---
 title: "Pragmatics and social cognition in learning and remembering words"
 authors:
-- Dionysia Saratsli
 - Katherine Marie Trice
+- Dionysia Saratsli
 - Anna Papafragou
 - Zhenghan Qi
 author_notes:
@@ -10,8 +10,8 @@ author_notes:
 - "Equal contribution"
 - ""
 - ""
-date: "2023-09-20T00:00:00Z"
-doi: "https://doi.org/10.31234/osf.io/gv4an"
+date: "in press"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -22,10 +22,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Pragmatics and social cognition in learning and remembering words"
+publication: "Pragmatics and Social Cognition in Learning and Remembering Words"
 # publication_short: ""
 
-abstract: Both children and adults can use sophisticated pragmatic inferences to acquire word meanings. An intriguing hypothesis is that words actively acquired via pragmatic inference (as opposed to simpler and more direct word-to-world mapping) might be better retained over time. On this hypothesis, to the extent that socio-cognitive skills support pragmatic computation, such socio-cognitive skills should also support inferentially-driven word learning outcomes. In the current study, we compared adults’ immediate attainment and later retention of novel word meanings acquired through either direct mapping or pragmatic inference. We found that pragmatic inference facilitated the retention of novel words compared to direct mapping (Experiment 1). Moreover, better socio-cognitive skills, measured by the Mind-in-the-Eyes task, were associated with better retention specifically for meanings that were inferred but not for meanings acquired through direct mapping (Experiment 1). Furthermore, when social cognition was taxed before word learning, the advantage of pragmatic inference for meaning retention in the same paradigm was diminished (Experiment 2). In conclusion, pragmatic processes supported by social cognition affect both encoding and memory consolidation of novel word meanings.
+abstract: Both children and adults can use sophisticated pragmatic inferences to acquire word meanings. An intriguing hypothesis is that words actively acquired via pragmatic inference (as opposed to simpler and more direct word-to-world mapping) might be better retained over time. On this hypothesis, to the extent that socio-cognitive skills support pragmatic computation, such socio-cognitive skills should also support inferentially-driven word learning outcomes.  Alternatively, when word-to-world mapping is learned more directly, certainty during encoding might lead to more robust memory outcome. In the current study, we compared adults’ immediate attainment and later retention of novel word meanings acquired through either direct mapping or pragmatic inference. We found that pragmatic inference facilitated the retention of novel words compared to direct mapping (Experiment 1). Moreover, better socio-cognitive skills were associated with better retention specifically for meanings that were inferred but not for meanings acquired through direct mapping (Experiment 1). Furthermore, when a social cognition task was performed before word learning, the advantage of pragmatic inference for meaning retention was diminished. This effect on word meaning retention was not seen when an inhibitory control task with similar attention demand was performed before word learning (Experiment 2). In conclusion, pragmatic processes supported by social cognition play a facilitatory role in adults’ word meaning retention.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac # convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -66,18 +66,5 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- mind-adult
-
-# Slides (optional).
-#   Associate this publication with Markdown slides.
-#   Simply enter your slide deck's filename without extension.
-#   E.g. `slides: "example"` references `content/slides/example/index.md`.
-#   Otherwise, set `slides: ""`.
-# slides: example
+- mind
 ---
-
-# {{% callout note %}}
-# Create your slides in Markdown - click the *Slides* button to check out the example.
-# {{% /callout %}}
-# 
-# Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

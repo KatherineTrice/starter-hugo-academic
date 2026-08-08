@@ -1,37 +1,37 @@
 ---
-title: "No Advantage of Pragmatic Inference for Vocabulary Retention in Children with Autism."
+title: "Word Learning through Pragmatic Inference in Children with Autism: a Web-Based Eye-Tracking Study"
 
-event: MOLA 2023
-event_url: https://molautism.org/
+event: BUCLD 2023
+event_url: https://www.bu.edu/bucld/
 
-location: Durham, NC
+location: Boston, MA
 address:
-  street: Duke University’s Penn Pavilion
-  city: Durham
-  region: NC
-  postcode: '27710'
+  street: George Sherman Union, 775 Commonwealth Avenue
+  city: Boston
+  region: MA
+  postcode: '02215'
   country: United States
 
-summary: A poster on autistic children’s encoding and retrieval of pragmatically inferred words.
-abstract: 'Typically developing children (4-9) and adults are able to mapped words via pragmatic inferences, and older children (6-9) and adults show a memory advantage for pragmatically inferred words. This advantage is linked to theory of mind abilities. Do autistic children, traditionally viewed as having weaker theory of mind skills, show the same? Find out in our poster!'
+summary: A talk on autistic children’s encoding and retrieval of pragmatically inferred words.
+abstract: 'Typically developing children (4-9) and adults are able to mapped words via pragmatic inferences, and older children (6-9) and adults show a memory advantage for pragmatically inferred words. This advanage is linked to theory of mind abilities. Do autistic children, traditionally viewed as having weaker theory of mind skills, show the same? Find out in our talk!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-10T14:30:00Z'
+date: '2023-11-03T11:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Katherine Trice, Anna Papafragou, Zhenghan Qi]
-tags: [Autistic, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences]
+authors: [Katherine Trice, Angelina DiNardo, Zhenghan Qi]
+tags: [Autistic, Children, Language, Pragmatics, Word Learning, Theory of Mind, Individual Differences, Eye-Tracking]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: MOLA'
+  caption: 'Image credit: ASHA'
   focal_point: Right
 
 #links:
@@ -40,7 +40,7 @@ image:
    # name: Follow
     # url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'https://qlab.sites.northeastern.edu/files/2023/03/2023_mola_mind_asd_poster.pdf'
+url_pdf: ''
 url_slides: ''
 url_video: ''
 
@@ -57,7 +57,7 @@ url_video: ''
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - mind
+  - mind-asd
 ---
 
 # {{% callout note %}}

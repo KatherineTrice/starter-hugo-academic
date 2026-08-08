@@ -1,6 +1,6 @@
 ---
 title: Learning Second Sign Language Operation (LESSO)
-summary: "What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate one's ability to extract and map novel signs from context. Major contributions: Supervise assessment programming, piloting, and refining, created full project pipeline; lead recruitment and administration, particularly of more challenging populations such as Deaf individuals and CODAs."
+summary: "What cognitive mechanisms may underpin implicit sign language learning in hearing, Deaf, and CODA adults? Here, we study everything from motor learning to working memory, statistical learning to vocabulary mapping, to determine the factors that most significantly modulate one's ability to extract and map novel signs from context. Major contributions: Empirically demonstrate the unique interwined nature of statistical learning modalities in Deaf adults; explore its relationship with earlier sign language aquisition and positive correlation with reading ability; supervise assessment programming, piloting, and refining, created full project pipeline; lead recruitment and administration, particularly of more challenging populations such as Deaf individuals and CODAs; analyze and publish results"
 
 
 tags:
