@@ -1,5 +1,5 @@
 ---
-title: "The Unforgettable 'Mel': Pragmatic Inferences Affect How Children Acquire and Remember Word Meanings"
+title: "The Unforgettable Mel: Pragmatic Inferences Affect How Children Acquire and Remember Word Meanings"
 authors:
 - Katherine Marie Trice
 - Dionysia Saratsli
