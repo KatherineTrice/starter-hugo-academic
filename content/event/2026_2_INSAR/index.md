@@ -1,5 +1,5 @@
 ---
-title: "Ongoing Development of a Cross-Culturally Validated Measure of Autism Knowledge (PAK-M) with a Neurodiverse Team."
+title: "Where Does Communication Break Down: Learning Novel Words from Autistic Individuals."
 
 event: INSAR 2026
 event_url: https://www.autism-insar.org/
@@ -12,22 +12,20 @@ address:
   # postcode: '02215'
   #country: United States
 
-summary: A symposium talk on typically developing children’s neural plasticity during statistical learning.
-abstract: 'Statistical learning refers to the  implicit learning
-process to extract regularities from sensory inputs, and shapes and is shaped in turn by language development. Furthermore, behaviorally, children learn statistical regularities much faster than adults. What are the developmental changes in the brain that underpin learning new patterns in the linguistic
-domain? Find out in our symposium!'
+summary: A poster on the impact of bias and knowlede about sepaker neurotype on teh learning and memory of novel words.
+abstract: 'Social factors such as speaker trust can impact the learning and memory of novel words. Can other factors such as knowledge that someone is autistic and imolicit bias surrounding autism similarly shape word learning? Find out in our poster!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2023-03-25T00:00:00Z'
+date: '2026-04-25T00:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Zhenghan Qi, Anqi Hu, Yi-Lun Weng, Katherine Trice]
-tags: [Children, Adults, Language, Statistical Learning, MRI, Individual Differences]
+authors: [Katherine Trice, Zhenghan Qi]
+tags: [Adults, Autistic, Language, Pragmatics, Word Learning, Theory of Mind, Bias, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -61,4 +59,3 @@ url_video: ''
 projects:
   - []
 ---
-
