@@ -25,7 +25,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Anna Schwartz, Angelina DiNardo, Linda Murphy, Lizz Ramirez, Katherine Trice, Kim Ho, Meghan Graham]
-tags: [Adults, Language, Neurodiversity, SLP, Bias, Individual Differences]
+tags: [Adults, Language, Autistic, Neurodiversity, SLP, Bias, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
