@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: A poster on the impact sign language experience on the implicit learning of novel sign meaning.
-abstract: 'How experience within a language modality shapes the ability to extrapolate novel meanings based on metaphors from one language to the next is unknown. We explore this with novice vs native signers, focusing on the interplay of iconicity and modality-specific metaphor strategies. Does greater expertise in one sign language hekp or hinder one's ability to infer novel signs in another? Find out in our poster!'
+abstract: 'How experience within a language modality shapes the ability to extrapolate novel meanings based on metaphors from one language to the next is unknown. We explore this with novice vs native signers, focusing on the interplay of iconicity and modality-specific metaphor strategies. Does greater expertise in one sign language help or hinder inferring novel signs in another? Find out in our poster!'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
