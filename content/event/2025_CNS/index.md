@@ -26,7 +26,7 @@ all_day: false
 publishDate: '2017-01-01T00:00:00Z'
 
 authors: [Katherine Trice, Brynn Siles, Anna Ciriello, Zhenghan Qi]
-tags: [Children, Autism, Language, Statistical Learning, Reading, MRI, Individual Differences]
+tags: [Children, Autistic, Language, Statistical Learning, Reading, MRI, Individual Differences]
 
 # Is this a featured talk? (true/false)
 featured: false
