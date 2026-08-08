@@ -168,6 +168,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
+        - name: STAR
+          tag: STAR
         - name: MIND
           tag: MIND
         - name: LESSO
@@ -238,7 +240,7 @@ sections:
       text: |-
         Message me at any time. I would love to talk!
       # Contact (add or remove contact options as necessary)
-      email: trice.k@northeastern.edu
+      email: tricekm@mit.edu
       # phone: 888 888 88 88
       # appointment_url: 'https://calendly.com'
       # address:
